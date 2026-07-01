@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0264/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續古尊宿語要目錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X68/X68n1317.xml
+    old_id: X68n1317
+hash: sha256:8c52d6a41342af61f9a3245288ed498d9058458794879c06c8e6c4141e51d367

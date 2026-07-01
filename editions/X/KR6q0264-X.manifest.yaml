@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6q0264/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0264/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續古尊宿語要目錄
+  identifiers:
+    krp: KR6q0264
+    cbeta: X68n1317
+    cbeta_old_id: X68n1317
+    authorityid: CA0001189
+    json_key: X1317
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X68/X68n1317.xml
+    old_id: X68n1317
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0264_000-X.yaml, hash: 'sha256:8c52d6a41342af61f9a3245288ed498d9058458794879c06c8e6c4141e51d367'}
+  - {seq: 1, filename: KR6q0264_001-X.yaml, hash: 'sha256:5d7684d37e64d6eafe4b8cbd3256d44849ae569430fe8b4a1b2a724ae21811a6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0264_000-X.markers.yaml, hash: 'sha256:86d1fe5fcd33e9c422f74fcf72e543ec15bb8044a99eb1ee10ada79dea394a60'}
+  - {seq: 1, role: markers, filename: assets/KR6q0264_001-X.markers.yaml, hash: 'sha256:6aa187bbc4f3aa46ba4ce24462657c666741021497071a695fe83aa8f1f8d10d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0264_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3137
+  label: 續刊古尊宿語要目錄　龍華新寫
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0264_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0264_X_001-mulu-2
+    span:
+    - body
+    - 548
+    - 548
+  label: 續古尊宿錄目錄(濃州細目鄉臨滹山大仙寺所藏)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0264_X_001-mulu-3
+    span:
+    - body
+    - 2844
+    - 2844
+  label: No. 1317-A
+  type: mulu
+  level: 1
+hash: sha256:8bf605b41c1318238bee9d66dea8e930089482cfd0d86e0395ca35c13698e8ac
