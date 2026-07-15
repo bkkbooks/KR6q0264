@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0264/v1
 canonical_location: https://kanripo.org/bkk/KR6q0264/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 續古尊宿語要目錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0264_000.yaml, hash: 'sha256:8c52d6a41342af61f9a3245288ed498d9058458794879c06c8e6c4141e51d367'}
-  - {seq: 1, filename: KR6q0264_001.yaml, hash: 'sha256:5d7684d37e64d6eafe4b8cbd3256d44849ae569430fe8b4a1b2a724ae21811a6'}
+  - {seq: 1, filename: KR6q0264_001.yaml, hash: 'sha256:fa3732e519866856592af7344dd47df6da9a973b3d63aaf245dcce646468616c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0264_000.markers.yaml, hash: 'sha256:e17a86b82c2e9c2b7da4265d00f85ac4562cebeed543d47355eee0390965b6d5'}
-  - {seq: 1, role: markers, filename: assets/KR6q0264_001.markers.yaml, hash: 'sha256:90c7eb780c2edd13cc0286b030c56ea763e7d8b4179810b49ea0079fd24b12f9'}
+  - {seq: 1, role: markers, filename: assets/KR6q0264_001.markers.yaml, hash: 'sha256:795b4891930c996da2c2cf5af95e365b013c1cba5a1706ce131c5b1cbbaeb496'}
 table_of_contents:
 - ref:
     seq: 1
@@ -67,4 +67,7 @@ table_of_contents:
   label: No. 1317-A
   type: mulu
   level: 1
-hash: sha256:702e3a5e9509d045aabecab0cef62ba046ed507e1540c972125c6d7cc7f8be5b
+hash: sha256:8dfddad0a224cf281a3aa296a7cc88571e5a6c7acac7cc96e58a56f9ca8171a6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
